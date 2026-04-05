@@ -16,6 +16,7 @@ cc-recipes/
 ├── CLAUDE.md         # 本文件
 ├── .gitignore
 ├── hjn-recipes/      # hjn 的 CC 使用习惯
+│   └── skills/       # 分享的 skill（如 analyze-project 接单分析）
 ├── zj-recipes/       # zj 的 CC 使用习惯
 └── lyq-recipes/      # lyq 的 CC 使用习惯
 ```
