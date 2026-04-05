@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+~$*
+
+# 敏感信息
+.env
+.env.*
+*.key
+*.pem
+secrets/
