@@ -29,3 +29,4 @@ cc-recipes/
 - 中文内容里用英文标点，避免 Unicode 特殊字符
 - 提交信息用中文，遵循 `feat/fix/docs/chore` 等常规前缀
 - 各人目录内风格自由，互不干涉
+- 分享 skill 时，硬编码路径用 `<YOUR_XXX>` 占位符替代，README 说明安装步骤
